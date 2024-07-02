@@ -1,0 +1,332 @@
+Expected condition failed: waiting for element to be clickable: By.xpath: //button[contains(text(),'Continue »')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34265}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34265/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ed70962e5d895c316c199c3068231f
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41289}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:41289/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb84813f79af367df88395920a0ffa45
+Expected condition failed: waiting for element to be clickable: By.xpath: //button[contains(text(),'Continue »')] (tried for 10 second(s) with 500 milliseconds interval)
+Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()='Continue »'] (tried for 10 second(s) with 500 milliseconds interval)
+Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()='Continue »'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:44163}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:44163/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ebeb61bd8de897a876c383f94d18d7c2
+javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //span[normalize-space()='Continue']] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//span[normalize-space()='Continue']]' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ee390d164ab7700e5cf84910203e914, findElement {value=//span[normalize-space()='Continue']], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:43765}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:43765/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ee390d164ab7700e5cf84910203e914
+javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //span[normalize-space()='Continue']] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//span[normalize-space()='Continue']]' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [167f7d435cf0d642895c80b03877a7f4, findElement {value=//span[normalize-space()='Continue']], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41191}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:41191/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 167f7d435cf0d642895c80b03877a7f4
+javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //span[normalize-space()='Continue']] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//span[normalize-space()='Continue']]' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bad63f62bdcc23c5ada0fb0b4ec8d6f7, findElement {value=//span[normalize-space()='Continue']], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46157}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:46157/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bad63f62bdcc23c5ada0fb0b4ec8d6f7
+javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //span[normalize-space()='Continue']] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//span[normalize-space()='Continue']]' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2583a0a17f388749e2d65bb28cd83720, findElement {value=//span[normalize-space()='Continue']], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40879}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40879/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2583a0a17f388749e2d65bb28cd83720
+javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //span[normalize-space()='Continue']] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//span[normalize-space()='Continue']]' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9f725a3b9d45fcc9e1e34fe82f041d43, findElement {using=xpath, value=//span[normalize-space()='Continue']]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:39761}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:39761/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f725a3b9d45fcc9e1e34fe82f041d43
+Expected condition failed: waiting for element to be clickable: By.xpath: //button[contains(text(),'Continue »')] (tried for 10 second(s) with 500 milliseconds interval)
+Expected condition failed: waiting for element to be clickable: By.xpath: //button[contains(text(),'Continue »')] (tried for 10 second(s) with 500 milliseconds interval)
+element not interactable
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1fb68e9348a35b42563b7ce8d2a20bc3, clickElement {id=f.343CC5F23F90C64B2529C08FD0F9C35B.d.9A5F2559FAE8EABCBD946043F1F6ABBC.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34747}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34747/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on linux (1fb68e9348a35b42563b7ce8d2a20bc3)] -> css selector: [placeholder='Enter Password']]
+Session ID: 1fb68e9348a35b42563b7ce8d2a20bc3
+element not interactable
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dc104d996a9024c473c881f884f63502, clickElement {id=f.AFE23230A17A56BD8EBB157F48551F35.d.B7EFDDBAC6BC4B67717E7DE758C4909E.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34993}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34993/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on linux (dc104d996a9024c473c881f884f63502)] -> css selector: [placeholder='Enter Password']]
+Session ID: dc104d996a9024c473c881f884f63502
+element not interactable
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [728d6e4037bd41202e429bc3da3685f8, clickElement {id=f.1B13018AF1C9A92F0565E323E49B09FC.d.65B7B5550D9E56F833B20F3266625A8E.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40365/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on linux (728d6e4037bd41202e429bc3da3685f8)] -> css selector: [placeholder='Enter Password']]
+Session ID: 728d6e4037bd41202e429bc3da3685f8
+Exception occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Sign In')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7c89b55d4895953a12869c44ddbb848, findElement {using=xpath, value=//button[contains(text(), 'Sign In')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40077}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40077/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7c89b55d4895953a12869c44ddbb848
+Exception occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Sign In')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a9efb27f9cd7cfd9f229bddbb0a11c1b, findElement {using=xpath, value=//button[contains(text(), 'Sign In')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46541}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:46541/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a9efb27f9cd7cfd9f229bddbb0a11c1b
+Exception occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Sign In')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [97f3457304c26eddafa380a2d99d5bf2, findElement {value=//button[contains(text(), 'Sign In')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40447}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40447/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 97f3457304c26eddafa380a2d99d5bf2
+Error: Please enter valid username
+Error: Please enter valid username
+Error: Please enter valid username
+Error: Please enter valid username
+Error during valid login test: element not interactable
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [297546517a20e03b9880119d8cec61a2, clickElement {id=f.13691BE5018767D3691794A211822479.d.EAE7A6CF4518EAD002F96E672886A975.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45119}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:45119/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on linux (297546517a20e03b9880119d8cec61a2)] -> css selector: [placeholder='Enter Password']]
+Session ID: 297546517a20e03b9880119d8cec61a2
+Error during invalid login test: element not interactable
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [297546517a20e03b9880119d8cec61a2, clickElement {id=f.13691BE5018767D3691794A211822479.d.4341B57925751E6AC82703DA9883B241.e.38}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45119}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:45119/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on linux (297546517a20e03b9880119d8cec61a2)] -> css selector: [placeholder='Enter Password']]
+Session ID: 297546517a20e03b9880119d8cec61a2
+Error during valid login test: element not interactable
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9f77393560773488891ab152ef95ad65, clickElement {id=f.2BD2C1A3EA4D14FFC4EFE6CB094747CB.d.743DCD367A1EDB1951370C58CD8FD7C7.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37211}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:37211/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on linux (9f77393560773488891ab152ef95ad65)] -> css selector: [placeholder='Enter Password']]
+Session ID: 9f77393560773488891ab152ef95ad65
+Expected error message displayed for invalid login.
+Please enter valid username and password: element not interactable
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b572a02a5ef2048b018b51c54de35b7b, clickElement {id=f.BAE7BA3BBF21165AAB7C2DBACA62E56B.d.C9F5A4524D5720C2E26A8A7F2A675C90.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:38843}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38843/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on linux (b572a02a5ef2048b018b51c54de35b7b)] -> css selector: [placeholder='Enter Password']]
+Session ID: b572a02a5ef2048b018b51c54de35b7b
+Please enter valid username to continue
+Error: Please enter valid username
+Please enter valid username to continue
+Error: Please enter valid username
+Please enter valid username to continue
+no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6274e8c3661a489714ebe956691b9ff8, findElement {using=xpath, value=//button[contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:39959}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:39959/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6274e8c3661a489714ebe956691b9ff8
+Error: Please enter valid username
+Please enter valid username to continue
+no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2d0deb8309fc292ee823967eb6997cc2, findElement {using=xpath, value=//button[@id='btnSubmit' and contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:43059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:43059/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d0deb8309fc292ee823967eb6997cc2
+Error: Please enter valid username
+Please enter valid username to continue
+no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1f8c77b7ac476651849f7a7e408ebba7, findElement {using=xpath, value=//button[@id='btnSubmit' and contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36163}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:36163/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f8c77b7ac476651849f7a7e408ebba7
+Exception in testSignInWithMicrosoft method: Expected condition failed: waiting for element to be clickable: By.xpath: //span[normalize-space()='Sign in with Microsoft »'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36163}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:36163/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f8c77b7ac476651849f7a7e408ebba7
+Error: Please enter valid username
+Please enter valid username to continue
+no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06d411b86ec9efa54dd41ef39e6b8633, findElement {using=xpath, value=//button[@id='btnSubmit' and contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40827}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40827/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 06d411b86ec9efa54dd41ef39e6b8633
+Exception in testSignInWithMicrosoft method: Expected condition failed: waiting for element to be clickable: By.xpath: //span[normalize-space()='Sign in with Microsoft »'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40827}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40827/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 06d411b86ec9efa54dd41ef39e6b8633
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [619f67d41e849f5ebc39751ce4a80fd3, findElement {using=xpath, value=//button[@id='btnSubmit' and contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40609}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40609/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 619f67d41e849f5ebc39751ce4a80fd3
+Sorry, but we’re having issues signing you in.: Expected condition failed: waiting for element to be clickable: By.xpath: //span[normalize-space()='Sign in with Microsoft »'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40609}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40609/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 619f67d41e849f5ebc39751ce4a80fd3
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [903fee2b02ea9a2709180a999abf0dc7, findElement {using=xpath, value=//button[@id='btnSubmit' and contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41895}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:41895/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 903fee2b02ea9a2709180a999abf0dc7
+Sorry, but we’re having issues signing you in.: Expected condition failed: waiting for element to be clickable: By.xpath: //span[normalize-space()='Sign in with Microsoft »'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41895}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:41895/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 903fee2b02ea9a2709180a999abf0dc7
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c42affcaef002449a2cd29950623404, findElement {using=xpath, value=//button[@id='btnSubmit' and contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40781}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40781/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c42affcaef002449a2cd29950623404
+Sorry, but we’re having issues signing you in.: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c42affcaef002449a2cd29950623404, findElement {using=css selector, value=[placeholder='Email address, phone number']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:40781}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:40781/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c42affcaef002449a2cd29950623404
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5354dcb06387126f15a08b5d9e78057e, findElement {using=xpath, value=//button[@id='btnSubmit' and contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46343}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:46343/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5354dcb06387126f15a08b5d9e78057e
+Error: Sorry, but we’re having issues signing you in.
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [330f201316d784dc5a426a371bc07c3e, findElement {value=//button[@id='btnSubmit' and contains(text(), 'Send')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37521}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:37521/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 330f201316d784dc5a426a371bc07c3e
+Error: Sorry, but we’re having issues signing you in.
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0253b4c53852939855b0a3749e9af4e3, findElement {value=//button[@id='btnSubmit' and contains(text(), 'Send')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:43691}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:43691/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0253b4c53852939855b0a3749e9af4e3
+Error: Sorry, but we’re having issues signing you in.
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e649d082ac1b59d4bca1183b8c0e60e8, findElement {using=xpath, value=//button[@id='btnSubmit' and contains(text(), 'Send')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34351}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:34351/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e649d082ac1b59d4bca1183b8c0e60e8
+Error: Sorry, but we’re having issues signing you in.
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='btnSubmit' and contains(text(), 'Send')]"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-41-generic', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [583f57e1f9ece6bd88be81a76867660c, findElement {value=//button[@id='btnSubmit' and contains(text(), 'Send')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41815}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:41815/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 583f57e1f9ece6bd88be81a76867660c
+Sorry, but we’re having issues signing you in.: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(text(),'Sorry, but we’re having')] (tried for 10 second(s) with 500 milliseconds interval)
+Error: Please enter valid username
+Please enter valid username to continue
+Given email address not have an account with us.
+Error: Sorry, but we’re having issues signing you in.
