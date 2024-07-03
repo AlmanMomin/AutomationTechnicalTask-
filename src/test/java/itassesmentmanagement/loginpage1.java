@@ -100,7 +100,7 @@ public class loginpage1 {
             emailField.click();
             emailField.sendKeys("alman.momin94@gmail.com");
 
-            WebElement sendButton = driver.findElement(By.xpath("//button[@id='btnSubmit'git init]"));
+            WebElement sendButton = driver.findElement(By.xpath("//button[@id='btnSubmit']"));
             sendButton.click();
 
             WebElement errorMessage = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[contains(text(),'Given email address not have')]")));
